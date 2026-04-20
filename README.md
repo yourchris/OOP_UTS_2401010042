@@ -26,7 +26,7 @@ Proyek ini mendemonstrasikan praktik terbaik dari pilar OOP:
 
 1. *Clone* repositori ini ke komputer lokal Anda:
    ```bash
-   git clone [https://github.com/username-anda/nama-repo-anda.git](https://github.com/username-anda/nama-repo-anda.git)
+   git clone [https://github.com/yourchris/OOP_UTS_2401010042.git](https://github.com/yourchris/OOP_UTS_2401010042.git)
 Buka terminal dan arahkan ke direktori file.
 
 Compile source code Java:

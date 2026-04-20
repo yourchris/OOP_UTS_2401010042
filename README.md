@@ -27,16 +27,16 @@ Proyek ini mendemonstrasikan praktik terbaik dari pilar OOP:
 1. *Clone* repositori ini ke komputer lokal Anda:
    ```bash
    git clone [https://github.com/yourchris/OOP_UTS_2401010042.git](https://github.com/yourchris/OOP_UTS_2401010042.git)
-Buka terminal dan arahkan ke direktori file.
+2. Buka terminal dan arahkan ke direktori file.
 
-Compile source code Java:
-
-Bash
+3. Compile source code Java:
+''bash
 javac UTSpert07.java player.java
-Jalankan program utama:
 
-Bash
-java UTSpert07
+4.Jalankan program utama:
+''bash
+java 
+
 🎮 Panduan Aksi (Cara Bermain)
 Saat program berjalan, Anda akan diminta memasukkan nama dan senjata. Setelahnya, Anda bisa memilih 4 aksi utama:
 
